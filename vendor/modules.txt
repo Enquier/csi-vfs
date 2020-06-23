@@ -1,0 +1,95 @@
+# github.com/akutz/gofsutil v0.1.2
+## explicit
+github.com/akutz/gofsutil
+# github.com/akutz/gosync v0.1.0
+## explicit
+github.com/akutz/gosync
+# github.com/container-storage-interface/spec v0.1.1-0.20180217084626-8b8a2effee24
+## explicit
+github.com/container-storage-interface/spec/lib/go/csi
+# github.com/coreos/etcd v3.3.1+incompatible
+## explicit
+github.com/coreos/etcd/auth/authpb
+github.com/coreos/etcd/clientv3
+github.com/coreos/etcd/clientv3/concurrency
+github.com/coreos/etcd/etcdserver/api/v3rpc/rpctypes
+github.com/coreos/etcd/etcdserver/etcdserverpb
+github.com/coreos/etcd/mvcc/mvccpb
+github.com/coreos/etcd/pkg/types
+# github.com/gogo/protobuf v1.0.0
+## explicit
+github.com/gogo/protobuf/gogoproto
+github.com/gogo/protobuf/proto
+github.com/gogo/protobuf/protoc-gen-gogo/descriptor
+# github.com/golang/protobuf v0.0.0-20170902000452-17ce1425424a
+## explicit
+github.com/golang/protobuf/jsonpb
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/struct
+github.com/golang/protobuf/ptypes/timestamp
+# github.com/inconshreveable/mousetrap v1.0.0
+## explicit
+# github.com/rexray/gocsi v0.3.4-0.20180219191239-14ceb917cd47
+## explicit
+github.com/rexray/gocsi
+github.com/rexray/gocsi/context
+github.com/rexray/gocsi/middleware/logging
+github.com/rexray/gocsi/middleware/requestid
+github.com/rexray/gocsi/middleware/serialvolume
+github.com/rexray/gocsi/middleware/serialvolume/etcd
+github.com/rexray/gocsi/middleware/serialvolume/types
+github.com/rexray/gocsi/middleware/specvalidator
+github.com/rexray/gocsi/utils
+# github.com/sirupsen/logrus v1.0.4-0.20170822132746-89742aefa4b2
+## explicit
+github.com/sirupsen/logrus
+# github.com/spf13/cobra v0.0.1
+## explicit
+# github.com/spf13/pflag v1.0.0
+## explicit
+# golang.org/x/crypto v0.0.0-20170825220121-81e90905daef
+## explicit
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/net v0.0.0-20170828231752-66aacef3dd8a
+## explicit
+golang.org/x/net/context
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+golang.org/x/net/internal/timeseries
+golang.org/x/net/lex/httplex
+golang.org/x/net/trace
+# golang.org/x/sys v0.0.0-20170906000021-9aade4d3a3b7
+## explicit
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.0.0-20170901153044-bd91bbf73e9a
+## explicit
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# google.golang.org/genproto v0.0.0-20170904050139-595979c8a7bf
+## explicit
+google.golang.org/genproto/googleapis/rpc/status
+# google.golang.org/grpc v1.6.0
+## explicit
+google.golang.org/grpc
+google.golang.org/grpc/codes
+google.golang.org/grpc/connectivity
+google.golang.org/grpc/credentials
+google.golang.org/grpc/grpclb/grpc_lb_v1/messages
+google.golang.org/grpc/grpclog
+google.golang.org/grpc/health/grpc_health_v1
+google.golang.org/grpc/internal
+google.golang.org/grpc/keepalive
+google.golang.org/grpc/metadata
+google.golang.org/grpc/naming
+google.golang.org/grpc/peer
+google.golang.org/grpc/stats
+google.golang.org/grpc/status
+google.golang.org/grpc/tap
+google.golang.org/grpc/transport

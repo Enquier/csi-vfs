@@ -3,7 +3,7 @@ package provider
 import (
 	"fmt"
 
-	"github.com/rexray/csi-vfs/service"
+	"github.com/enquier/csi-vfs/service"
 	"github.com/rexray/gocsi"
 )
 

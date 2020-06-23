@@ -12,7 +12,7 @@ of other programs.
 CSI-VFS can be installed with Go and the following command:
 
 ```bash
-$ go get github.com/rexray/csi-vfs
+$ go get github.com/enquier/csi-vfs
 ```
 
 The resulting binary will be installed to `$GOPATH/bin/csi-vfs`.

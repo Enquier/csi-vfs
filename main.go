@@ -5,8 +5,8 @@ import (
 
 	"github.com/rexray/gocsi"
 
-	"github.com/rexray/csi-vfs/provider"
-	"github.com/rexray/csi-vfs/service"
+	"github.com/enquier/csi-vfs/provider"
+	"github.com/enquier/csi-vfs/service"
 )
 
 // main is ignored when this package is built as a go plug-in

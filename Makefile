@@ -183,8 +183,8 @@ test: build | $(ETCD) $(CSC)
 
 docker-test:
 	docker run --privileged --rm -it \
-           -v $(shell pwd):/go/src/github.com/rexray/csi-vfs golang:1.9.4 \
-           make -C /go/src/github.com/rexray/csi-vfs test
+           -v $(shell pwd):/go/src/github.com/enquier/csi-vfs golang:1.9.4 \
+           make -C /go/src/github.com/enquier/csi-vfs test
 
 
 ################################################################################
